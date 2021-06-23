@@ -19,4 +19,4 @@ And here's some that I would like to learn:
 - Vim
 - CSS-in-JS (Stitches/Vanilla Extract)
 
-In my free time I'm a custom keyboard enthusaist, guitarist, bassist, open source contributor, and hedgehog owner.
+In my free time I'm a custom keyboard enthusiast, guitarist, bassist, open source contributor, and hedgehog owner.
