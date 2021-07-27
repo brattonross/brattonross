@@ -1,22 +1,30 @@
-Hi, I'm Ross
+Hi, I'm Ross, a Senior Software Engineer based in Bristol, UK.
 
-I'm currently a Senior Software Engineer based in Bristol, UK.
+During the day I work on software that improves the customer experience of contact centres worldwide, with a focus on front-end web experiences and design systems.
 
-Here's some tech that I enjoy using:
+In my free time I work on open source software, am a custom keyboard enthusiast, guitarist, bassist, and hedgehog owner 🦔
 
-- React
-- Next.js
-- Vue
-- Nuxt.js
-- TypeScript
-- .NET / ASP.NET Core
-- Go
-- TailwindCSS
+### Tech Stack
 
-And here's some that I would like to learn:
+I will typically use some of the stuff listed here in projects that I work on:
 
-- Svelte
-- Vim
-- CSS-in-JS (Stitches/Vanilla Extract)
+- [x] Next.js
+- [x] Vue
+- [x] React
+- [x] .NET / ASP.NET Core
+- [x] TypeScript
+- [x] Cypress
+- [x] Testing Library
+- [x] Vite
+- [x] Vercel
+- [x] Netlify
+- [x] Supabase
+- [x] Nuxt.js
+- [x] Go
+- [x] TailwindCSS
+- [x] Stitches
+- [ ] Svelte
 
-In my free time I'm a custom keyboard enthusiast, guitarist, bassist, open source contributor, and hedgehog owner.
+Key:
+- [x] = I have learnt and used this in projects
+- [ ] = I am planning to learn this
