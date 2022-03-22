@@ -1,30 +1,26 @@
-Hi, I'm Ross, a Senior Software Engineer based in Bristol, UK.
+I'm Ross, a Software Engineer based in Bristol, UK.
 
-During the day I work on software that improves the customer experience of contact centres worldwide, with a focus on front-end web experiences and design systems.
+I talk like I belong in the movie Hot Fuzz, which is not surprising seeing as it was filmed just a few miles from where I grew up.
 
-In my free time I work on open source software, am a custom keyboard enthusiast, guitarist, bassist, and hedgehog owner 🦔
+I work on software that improves the customer experience of contact centres worldwide. I mainly focus on web and front-end, but am always looking to deepen my knowledge.
 
-### Tech Stack
+When I'm not working, I mainly:
 
-I will typically use some of the stuff listed here in projects that I work on:
+- Contribute to open source projects 💻
+- Build and tinker with custom keyboards ⌨️
+- Play guitar and bass 🎸
+- Cook meals for my other half 🧑‍🍳
+- Care for my pet hedgehog 🦔
 
-- [x] Next.js
-- [x] Vue
-- [x] React
-- [x] .NET / ASP.NET Core
-- [x] TypeScript
-- [x] Cypress
-- [x] Testing Library
-- [x] Vite
-- [x] Vercel
-- [x] Netlify
-- [x] Supabase
-- [x] Nuxt.js
-- [x] Go
-- [x] TailwindCSS
-- [x] Stitches
-- [ ] Svelte
+### Current Tech Stack
 
-Key:
-- [x] = I have learnt and used this in projects
-- [ ] = I am planning to learn this
+My preferred tech stack is currently something like:
+
+- Remix / Next.js
+- TypeScript
+- Radix UI
+- TailwindCSS
+- Cypress
+- Vitest
+- Prisma
+- PlanetScale / Supabase
